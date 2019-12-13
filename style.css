@@ -3,23 +3,11 @@ body
 {
    margin: 0;
    badding:0;
-   ;background-image: #4C7D7E
+   ;background: #4C7D7E
    color: #fff;
    font-family: sans-serif;
 }
 
-@keyframes bganimation
-{
-   0%
-   {
-      background-position: 0% 50%;
-   }
-   50%
-   {
-      background-position: 100% 50%;
-   }
-   100%
-   {
 
 .aa
 {
