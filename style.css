@@ -10,7 +10,7 @@ body
    font-family: sans-serif;
 }
 
-keyframes bganimation
+@keyframes bganimation
 {
    0%
    {
