@@ -1,7 +1,11 @@
 body
 
 {
-   background: #203a43;
+   margin: 0;
+   badding:0;
+   background-image: linear-gradient(125deg,#2c3e50,#27ae60,#2980b9,#e74c3c,#8e44ad);
+   background-size: 400% 400%;
+   animation: biganimation 15s infinite
    color: #fff;
    font-family: sans-serif;
 }
