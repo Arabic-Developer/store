@@ -1,31 +1,47 @@
 body
 {
-   background: #203a43;
-   color: #fff;
-   font-family: sans-serif;
+   margin: 0;
+   padding: 0;
+   backgroung: url(nagi.png);
+   backgroung-size: cover;
+   position: relative;
+   overflow: hidden;
+   height: 650px;
+   width: 100%
 }
 
-.aa
+h1
 {
-   whidth: 120px;
-   border-radius: 10px;
+   font-size: 70px;
+   font-family: 'Acma', sans-serif;
+   color: #ccc;
+   position: absolute;
+   top: 50%;
+   left: 50%;
 }
 
-
-.ee
+.snow
 {
-   width: 30%;
-   size: 1px;
-   margin-top: 50px;
+   background: url(snow.png);
+   background-repeat: repeat;
+   width: 100%;
+   height: 1000px;
+   position: absolute;
+   top: 0;
+   left: 0;
+   animation: animate 20s infinite linear;
 }
 
-.bb
+@keyframes
 {
-   color: #ffd452;
-   text-decoration: none;
-   border: #ccc 2px solid;
-   padding: 5px 15px;
-   border-radius: 10px;
+   0%
+   {
+       background-position: 0px 0px;
+   }
+   100%
+   {
+       backgroung-position: 100px 100px;
+   }
 
-
-}
+   
+   
