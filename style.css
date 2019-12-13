@@ -3,7 +3,7 @@ body
 {
    margin: 0;
    badding:0;
-   background-image: linear-gradient(125deg,#2c3e50,#27ae60,#2980b9,#e74c3c,#8e44ad);
+   background-image: linear-gradient(125deg,#5CB3FF,#4C787E,#F52887,#4AA02C,#C11B17);
    background-size: 400% 400%;
    animation: bganimation 15s infinite
    color: #fff;
