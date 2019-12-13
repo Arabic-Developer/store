@@ -21,8 +21,8 @@ body
 
 .bb
 {
-   color: #000
-   text-decoration: #none;
+   color: #ccc
+   text-decoration: none
    border: #ccc 2px solid;
    padding: 5px 15px;
    border-radius: 10px;
