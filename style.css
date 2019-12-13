@@ -1,7 +1,7 @@
 body
 {
    background: #203a43;
-   color: #ffd452;
+   color: #fff;
    font-family: sans-serif;
 }
 
@@ -21,7 +21,7 @@ body
 
 .bb
 {
-   color: #fff;
+   color: #ffd452;
    text-decoration: none;
    border: #ccc 2px solid;
    padding: 5px 15px;
